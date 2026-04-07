@@ -21,40 +21,35 @@
 
 ## 🛠️ 사용 기술
 
-- **Language**
-  - Java
-  - HTML5 / CSS3
-  - JavaScript
+### 💻 Language & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Backend**
-  - Spring Boot
-  - MyBatis
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
 
-- **Frontend**
-  - Thymeleaf
+### 🗄️ Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-- **Database**
-  - Oracle Database
-
-- **Tools**
-  - SQL Developer
-  - Visual Studio Code
-
-- **OS**
-  - Windows
+### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL_Developer-4479A1?style=for-the-badge)
 
 ---
 
 ## 🎯 주요 기능
 
-- 🛒 상품 관리 기능
-  - 관리자 페이지에서 상품 등록 / 수정 / 삭제 기능 구현
+- 🛒 **상품 관리 기능**
+  - 관리자 페이지에서 상품 등록 / 수정 / 삭제 (CRUD) 기능 구현
 
-- 🔍 검색 기능
+- 🔍 **상품 검색 기능**
   - 사용자 상품 검색 기능 구현
 
-- 🗂️ 데이터베이스 설계
-  - 상품 및 리뷰 테이블 설계 및 구조 구성
+- 🗂️ **데이터베이스 설계**
+  - 상품 및 리뷰 테이블 설계 및 관계 구조 구성
 
 ---
 
@@ -68,7 +63,7 @@
 
 ## 📸 화면 미리보기
 
-> (여기에 관리자 페이지 / 메인 화면 이미지 추가 예정)
+> (여기에 이미지 추가 예정)
 
 ---
 
@@ -78,20 +73,20 @@
   → 사전 설계 및 협업 기준 정립의 중요성을 경험
 
 - 각자 구현 방식이 달라 기능 통합이 어려웠던 문제  
-  → 협업 시 코드 규칙과 구조 통일 필요성 인식
+  → 코드 규칙 및 구조 통일의 필요성 인식
 
 ---
 
 ## 🚀 배운 점
 
 - 협업 프로젝트에서 **사전 기획과 커뮤니케이션의 중요성**을 체감
-- 데이터베이스 설계와 백엔드 로직 구현 경험
-- 다양한 구현 방식을 공유하며 **문제 해결 접근법 확장**
+- 데이터베이스 설계 및 백엔드 로직 구현 경험
+- 다양한 구현 방식을 공유하며 문제 해결 능력 향상
 
 ---
 
 ## 🔗 프로젝트 특징
 
-- 단순 퍼블리싱이 아닌 **풀스택 기반 웹 프로젝트 경험**
+- 퍼블리싱을 넘어 **풀스택 기반 웹 프로젝트 경험**
 - 관리자 기능 중심의 실무형 CRUD 구현
 - 데이터베이스 설계부터 기능 구현까지 직접 수행
