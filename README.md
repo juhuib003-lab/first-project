@@ -81,7 +81,8 @@
 ---
 ## 🗄️ 데이터베이스 설계 (ERD)
 
-<img width="669" height="413" alt="image" src="https://github.com/user-attachments/assets/4d144c88-aa09-41d7-ab96-c63a5f77296a" />
+<img width="926" height="884" alt="Untitled" src="https://github.com/user-attachments/assets/8aea64c8-876a-4ec6-9837-b7b45a2dee6c" />
+
 
 ---
 
@@ -106,7 +107,8 @@
 - 입력값 유효성 검사로 잘못된 데이터 입력 방지
 - 등록 완료 시 메인 페이지로 이동
 
-<img width="227" height="353" alt="image" src="https://github.com/user-attachments/assets/b1195390-40b5-4e1c-b704-ce250808ec0e" />
+<img width="419" height="660" alt="image" src="https://github.com/user-attachments/assets/3c494332-e84b-4619-872b-7536813641a6" />
+
 
 
 ---
@@ -118,8 +120,9 @@
 - 삭제 완료 후 페이지 새로고침 없이 즉시 목록 반영
 - 관리자 관점에서 효율적인 상품 관리 가능
 
-<img width="436" height="341" alt="image" src="https://github.com/user-attachments/assets/f1acb485-296b-4f39-ade4-dd5b293ddd8b" />
-<img width="159" height="453" alt="image" src="https://github.com/user-attachments/assets/a15ca2ea-fa14-49f1-9579-11ae728d4a94" />
+<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/0d9dd762-71b8-41c1-9824-d57bf9e58ac2" />
+<img width="196" height="565" alt="image" src="https://github.com/user-attachments/assets/7a6bd02e-cf75-4f8c-b10c-c003861a58c6" />
+
 
 
 ---
