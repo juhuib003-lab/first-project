@@ -4,6 +4,12 @@
 
 ---
 
+## 🖥️ 서비스 화면
+
+<img src="메인페이지이미지" />
+
+---
+
 ## 📖 프로젝트 소개
 
 미세먼지와 잦은 마스크 착용으로 인해 피부가 민감해진 현대인을 위해,  
@@ -79,12 +85,6 @@
 - 사용자 **상품 검색 기능 구현**
 
 ---
-## 🗄️ 데이터베이스 설계 (ERD)
-
-<img width="926" height="884" alt="Untitled" src="https://github.com/user-attachments/assets/8aea64c8-876a-4ec6-9837-b7b45a2dee6c" />
-
-
----
 
 ## 📸 기능 시연
 
@@ -94,9 +94,8 @@
 - 대소문자 구분 없이 검색 가능
 - 일부 키워드만 입력해도 결과가 출력되는 부분 검색 구현
 
-<img width="862" height="499" alt="image" src="https://github.com/user-attachments/assets/6c1ba09b-697e-4355-9fce-e93e11364925" />
-
-
+<img width="885" src="https://github.com/user-attachments/assets/a01e8cef-5c0f-4f87-9eaf-9d81dc52196c" />
+<img width="440" src="https://github.com/user-attachments/assets/db540f2a-82a0-42d0-ac60-87478ddbc83d" />
 
 ---
 
@@ -107,9 +106,9 @@
 - 입력값 유효성 검사로 잘못된 데이터 입력 방지
 - 등록 완료 시 메인 페이지로 이동
 
-<img width="419" height="660" alt="image" src="https://github.com/user-attachments/assets/3c494332-e84b-4619-872b-7536813641a6" />
-
-
+<img width="432" src="https://github.com/user-attachments/assets/62ec27e8-6f06-4396-b1c5-26220c9b1908" />
+<img width="494" src="https://github.com/user-attachments/assets/b0919593-15b3-47e7-9bcb-0f2f6fa98e12" />
+<img width="219" src="https://github.com/user-attachments/assets/bdc35fbc-1a7e-4130-bde7-b7149ef93d83" />
 
 ---
 
@@ -120,10 +119,18 @@
 - 삭제 완료 후 페이지 새로고침 없이 즉시 목록 반영
 - 관리자 관점에서 효율적인 상품 관리 가능
 
-<img width="809" height="624" alt="image" src="https://github.com/user-attachments/assets/0d9dd762-71b8-41c1-9824-d57bf9e58ac2" />
-<img width="196" height="565" alt="image" src="https://github.com/user-attachments/assets/7a6bd02e-cf75-4f8c-b10c-c003861a58c6" />
+<img width="567" src="https://github.com/user-attachments/assets/abfe7bc0-82dd-414f-bbd4-79d1159f747d" />
+<img width="416" src="https://github.com/user-attachments/assets/b6f71782-9c6f-497c-a6d6-ae4313db5f5a" />
+<img width="158" src="https://github.com/user-attachments/assets/0b80de56-a410-44a9-9bd4-9998f4e248d1" />
 
+---
 
+## 🗂️ 데이터베이스 설계 (ERD)
+
+- 상품, 리뷰, 사용자, 주문 데이터를 고려한 관계형 데이터베이스 설계
+- 테이블 간 관계를 기반으로 데이터 무결성 유지
+
+<img src="DB설계이미지" />
 
 ---
 
