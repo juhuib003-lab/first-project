@@ -42,14 +42,10 @@
 
 ## 🎯 주요 기능
 
-- 🛒 **상품 관리 기능**
-  - 관리자 페이지에서 상품 등록 / 수정 / 삭제 (CRUD) 기능 구현
-
-- 🔍 **상품 검색 기능**
-  - 사용자 상품 검색 기능 구현
-
-- 🗂️ **데이터베이스 설계**
-  - 상품 및 리뷰 테이블 설계 및 관계 구조 구성
+- 🔍 상품 검색 기능 (부분 검색 및 필터링)
+- 🛒 관리자 상품 등록 기능 (이미지 업로드 및 유효성 검사)
+- 🗑️ 상품 수정 및 삭제 기능 (실시간 UI 반영)
+- 🗂️ 상품 및 리뷰 데이터베이스 설계
 
 ---
 
@@ -61,9 +57,42 @@
 
 ---
 
-## 📸 화면 미리보기
+## 📸 기능 시연
 
-> (여기에 이미지 추가 예정)
+### 🔍 검색 기능
+
+- 상품명을 기준으로 검색어가 포함된 데이터 필터링
+- 대소문자 구분 없이 검색 가능
+- 일부 키워드만 입력해도 결과가 출력되는 부분 검색 구현
+
+<img width="885" src="https://github.com/user-attachments/assets/a01e8cef-5c0f-4f87-9eaf-9d81dc52196c" />
+<img width="440" src="https://github.com/user-attachments/assets/db540f2a-82a0-42d0-ac60-87478ddbc83d" />
+
+---
+
+### 🛒 상품 등록 기능 (관리자)
+
+- 관리자 페이지에서 상품 정보 등록 (상품명, 브랜드, 가격, 설명, 카테고리, 재고)
+- 이미지 파일 업로드 기능 구현
+- 입력값 유효성 검사로 잘못된 데이터 입력 방지
+- 등록 완료 시 메인 페이지로 이동
+
+<img width="432" src="https://github.com/user-attachments/assets/62ec27e8-6f06-4396-b1c5-26220c9b1908" />
+<img width="494" src="https://github.com/user-attachments/assets/b0919593-15b3-47e7-9bcb-0f2f6fa98e12" />
+<img width="219" src="https://github.com/user-attachments/assets/bdc35fbc-1a7e-4130-bde7-b7149ef93d83" />
+
+---
+
+### 🗑️ 상품 수정 / 삭제 기능 (관리자)
+
+- 관리자 페이지에서 상품 정보 수정 및 삭제 기능 구현
+- 삭제 시 확인 알림창을 통해 실수 방지
+- 삭제 완료 후 페이지 새로고침 없이 즉시 목록 반영
+- 관리자 관점에서 효율적인 상품 관리 가능
+
+<img width="567" src="https://github.com/user-attachments/assets/abfe7bc0-82dd-414f-bbd4-79d1159f747d" />
+<img width="415" src="https://github.com/user-attachments/assets/9c0f889f-0847-48fb-9efa-e7bca4e0f2f6fa98e12" />
+<img width="158" src="https://github.com/user-attachments/assets/0b80de56-a410-44a9-9bd4-9998f4e248d1" />
 
 ---
 
