@@ -91,7 +91,7 @@
 - 관리자 관점에서 효율적인 상품 관리 가능
 
 <img width="567" src="https://github.com/user-attachments/assets/abfe7bc0-82dd-414f-bbd4-79d1159f747d" />
-<img width="415" src="https://github.com/user-attachments/assets/9c0f889f-0847-48fb-9efa-e7bca4e0f2f6fa98e12" />
+<img width="416" height="321" alt="image" src="https://github.com/user-attachments/assets/b6f71782-9c6f-497c-a6d6-ae4313db5f5a" />
 <img width="158" src="https://github.com/user-attachments/assets/0b80de56-a410-44a9-9bd4-9998f4e248d1" />
 
 ---
