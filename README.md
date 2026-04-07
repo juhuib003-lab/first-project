@@ -94,8 +94,9 @@
 - 대소문자 구분 없이 검색 가능
 - 일부 키워드만 입력해도 결과가 출력되는 부분 검색 구현
 
-<img width="885" src="https://github.com/user-attachments/assets/a01e8cef-5c0f-4f87-9eaf-9d81dc52196c" />
-<img width="440" src="https://github.com/user-attachments/assets/db540f2a-82a0-42d0-ac60-87478ddbc83d" />
+<img width="861" height="479" alt="image" src="https://github.com/user-attachments/assets/3ee9e0ca-7c15-491e-ab97-c5e14f63b620" />
+
+
 
 ---
 
@@ -106,9 +107,7 @@
 - 입력값 유효성 검사로 잘못된 데이터 입력 방지
 - 등록 완료 시 메인 페이지로 이동
 
-<img width="432" src="https://github.com/user-attachments/assets/62ec27e8-6f06-4396-b1c5-26220c9b1908" />
-<img width="494" src="https://github.com/user-attachments/assets/b0919593-15b3-47e7-9bcb-0f2f6fa98e12" />
-<img width="219" src="https://github.com/user-attachments/assets/bdc35fbc-1a7e-4130-bde7-b7149ef93d83" />
+<img width="419" height="664" alt="image" src="https://github.com/user-attachments/assets/ef2d4acb-dd77-43a3-a92e-cae5d1328e82" />
 
 ---
 
@@ -119,9 +118,9 @@
 - 삭제 완료 후 페이지 새로고침 없이 즉시 목록 반영
 - 관리자 관점에서 효율적인 상품 관리 가능
 
-<img width="567" src="https://github.com/user-attachments/assets/abfe7bc0-82dd-414f-bbd4-79d1159f747d" />
-<img width="416" src="https://github.com/user-attachments/assets/b6f71782-9c6f-497c-a6d6-ae4313db5f5a" />
-<img width="158" src="https://github.com/user-attachments/assets/0b80de56-a410-44a9-9bd4-9998f4e248d1" />
+<img width="812" height="613" alt="image" src="https://github.com/user-attachments/assets/741b69d4-5dd4-4d32-8489-bb63c6b90d28" />
+<img width="197" height="563" alt="image" src="https://github.com/user-attachments/assets/75aab052-7abc-4258-844a-76f6b822dcab" />
+
 
 ---
 
@@ -130,7 +129,8 @@
 - 상품, 리뷰, 사용자, 주문 데이터를 고려한 관계형 데이터베이스 설계
 - 테이블 간 관계를 기반으로 데이터 무결성 유지
 
-<img src="DB설계이미지" />
+<img width="926" height="884" alt="Untitled" src="https://github.com/user-attachments/assets/30824150-2891-4020-bd3c-88a8990eca77" />
+
 
 ---
 
