@@ -93,7 +93,8 @@
 - 대소문자 구분 없이 검색 가능
 - 일부 키워드만 입력해도 결과가 출력되는 부분 검색 구현
 
-<img width="467" height="262" alt="image" src="https://github.com/user-attachments/assets/58ef00ff-c9d8-4d62-9a74-63826b23fab8" />
+<img width="862" height="499" alt="image" src="https://github.com/user-attachments/assets/6c1ba09b-697e-4355-9fce-e93e11364925" />
+
 
 
 ---
