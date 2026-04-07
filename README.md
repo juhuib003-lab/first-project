@@ -19,6 +19,29 @@
 
 ---
 
+## 👥 팀 구성 및 역할
+
+- 👑 **김강산 (팀장)**
+  - 상품 리스트 및 상세 페이지 개발
+  - React Router 기반 SPA 구현
+  - 장바구니 및 재고 관리 기능
+
+- 🙋‍♀️ **박주희 (본인)**
+  - 상품 및 리뷰 DB 테이블 설계
+  - 관리자 페이지 (상품 등록 / 수정 / 삭제) 구현
+  - 상품 검색 기능 및 데이터 연동 처리
+
+- 🙋 **박도예**
+  - 장바구니 및 주문 / 결제 기능 구현
+  - 카카오 주소 API 및 결제 API 연동
+
+- 🙋 **이연우**
+  - 회원 및 주문 DB 설계
+  - 로그인 / 회원 관리 기능 구현
+  - 관리자 및 사용자 권한 관리 기능
+
+---
+
 ## 🛠️ 사용 기술
 
 ### 💻 Language & Frontend
@@ -91,7 +114,7 @@
 - 관리자 관점에서 효율적인 상품 관리 가능
 
 <img width="567" src="https://github.com/user-attachments/assets/abfe7bc0-82dd-414f-bbd4-79d1159f747d" />
-<img width="416" height="321" alt="image" src="https://github.com/user-attachments/assets/b6f71782-9c6f-497c-a6d6-ae4313db5f5a" />
+<img width="416" src="https://github.com/user-attachments/assets/b6f71782-9c6f-497c-a6d6-ae4313db5f5a" />
 <img width="158" src="https://github.com/user-attachments/assets/0b80de56-a410-44a9-9bd4-9998f4e248d1" />
 
 ---
