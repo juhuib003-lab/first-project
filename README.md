@@ -79,6 +79,11 @@
 - 사용자 **상품 검색 기능 구현**
 
 ---
+## 🗄️ 데이터베이스 설계 (ERD)
+
+<img width="669" height="413" alt="image" src="https://github.com/user-attachments/assets/4d144c88-aa09-41d7-ab96-c63a5f77296a" />
+
+---
 
 ## 📸 기능 시연
 
