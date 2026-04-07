@@ -6,7 +6,8 @@
 
 ## 🖥️ 서비스 화면
 
-<img src="메인페이지이미지" />
+<img width="996" height="481" alt="image" src="https://github.com/user-attachments/assets/3eb04e47-d3c2-4a08-94ef-2eea4fe5d67b" />
+
 
 ---
 
@@ -118,7 +119,7 @@
 - 삭제 완료 후 페이지 새로고침 없이 즉시 목록 반영
 - 관리자 관점에서 효율적인 상품 관리 가능
 
-<img width="812" height="613" alt="image" src="https://github.com/user-attachments/assets/741b69d4-5dd4-4d32-8489-bb63c6b90d28" />
+<img width="677" height="523" alt="image" src="https://github.com/user-attachments/assets/61211ddd-dbb9-4d5b-8093-570937574eaf" />
 <img width="197" height="563" alt="image" src="https://github.com/user-attachments/assets/75aab052-7abc-4258-844a-76f6b822dcab" />
 
 
